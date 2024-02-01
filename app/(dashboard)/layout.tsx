@@ -28,7 +28,7 @@ const DashboardLayout = ({ children }) => {
             <UserButton />
           </div>
         </header>
-        <div>{children}</div>
+        <div className="h-screen">{children}</div>
       </div>
     </div>
   );
