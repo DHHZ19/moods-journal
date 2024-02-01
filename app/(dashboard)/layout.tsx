@@ -1,4 +1,4 @@
-import { UserButton } from "@clerk/nextJs";
+import { UserButton } from "@clerk/nextjs";
 import Link from "next/link";
 
 const links = [
